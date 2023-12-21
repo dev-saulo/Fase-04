@@ -1,6 +1,8 @@
-# Stage 04 - Explorer Rocketseat
+# Stage 04 - Ex 01 - Explorer Rocketseat
 
-## 📚 O que será abordado nesse desafio:
+# 💻 Sobre o desafio
+
+## 💡 Principais pontos abordados nesse desafio:
 
 - Variáveis;
 - Operações matemáticas;
